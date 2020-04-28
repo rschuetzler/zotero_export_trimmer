@@ -1,7 +1,8 @@
 # Zotero Export Trimmer
 
-A simple utility to take the most useful columns from a Zotero library and trim them down to a format that is Notion-friendly. 
+A simple utility to take the most useful columns from a Zotero library and trim them down to simpler format. 
 All it really does is select a subset of the columns and rename some of them.
+I created it to help make a database in Notion mirroring my Zotero database so I can better track my reading, but the same output can be used for anything.
 
 ## Usage instructions
 
